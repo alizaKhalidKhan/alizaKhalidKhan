@@ -1,14 +1,14 @@
-👋 Hey! I am Aliza Khalid
+👋 Hey! I am <b>Aliza Khalid</b>
 
 👩🏻‍🎓 I am a BS-CS student at Jinnah University for Women
 
 👩🏼‍💻 I am a front-end developer
 
-🎭 Portfolio Link : https://artistichubs.wordpress.com/
+🎭 Portfolio Link : <b>https://artistichubs.wordpress.com/</b>
 
-💬 How to reach me? Email at alizajuw@gmail.com 
+💬 How to reach me? Email at <b>alizajuw@gmail.com</b>
 
 Or
 
-💬 DM at https://www.linkedin.com/in/aliza-khalid/
+💬 DM at <b>https://www.linkedin.com/in/aliza-khalid/</b>
 
