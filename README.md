@@ -1,4 +1,4 @@
-<h1 align="center" >Hey!  👋 I am <b>Aliza Khalid</b></h1>
+<h1 align="center" >Hey!  👋 I am <b>Aliza Khalid</b></h1><br>
 <h3 align="center">👩🏼‍💻 I am a Passionate front-end developer</h3>
 
 👩🏻‍🎓 I am a BS-CS student at Jinnah University for Women
