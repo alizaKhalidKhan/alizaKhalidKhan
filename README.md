@@ -14,4 +14,4 @@ Or
 <br><br>
 <h4>Here is my streak : </h4>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alizaKhalidKhan&" alt="alizaKhalidKhan Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alizaKhalidKhan&" alt="alizaKhalidKhan Streak" />
