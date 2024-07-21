@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">👋 Hey! I am <b>Aliza Khalid</b></h1>
-<hr>
+
 
 👩🏻‍🎓 I am a BS-CS student at Jinnah University for Women
 
