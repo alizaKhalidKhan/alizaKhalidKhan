@@ -1,4 +1,5 @@
-👋 Hey! I am <b>Aliza Khalid</b>
+<center>👋 Hey! I am <b>Aliza Khalid</b></center>
+<hr>
 
 👩🏻‍🎓 I am a BS-CS student at Jinnah University for Women
 
