@@ -3,9 +3,10 @@
 <h4>Here is some basic info about me : </h4>
 👩🏻‍🎓 I am a BS-CS student at Jinnah University for Women <br>
 <h4>You can Check my Portfolio : </h4>
-🎭 Portfolio Link : <b>https://artistichubs.wordpress.com/</b>
+🎭 Portfolio Link : <b>https://artistichubs.wordpress.com/</b><br>
 
-💬 How to reach me? Email at <b>alizajuw@gmail.com</b>
+<h4>💬 How to reach me?</h4> 
+Email at <b>alizajuw@gmail.com</b>
 
 Or
 
