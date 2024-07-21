@@ -15,3 +15,7 @@ Or
 <h4>Here is my streak : </h4>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alizaKhalidKhan&" alt="alizaKhalidKhan Streak" />
+
+<br><br>
+<h4>Most Used Languages : </h4>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alizaKhalidKhan&show_icons=true&locale=en&layout=compact" alt="alizaKhalidKhan most-used-languages" />
