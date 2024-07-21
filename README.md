@@ -11,4 +11,7 @@ Email at <b>alizajuw@gmail.com</b>
 Or
 <br><br>
 💬 DM at <b>https://www.linkedin.com/in/aliza-khalid/</b>
+<br><br>
+<h4>Here is my streak : </h4>
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alizaKhalidKhan&" alt="alizaKhalidKhan Streak" />
