@@ -8,8 +8,7 @@
 <h4>💬 How to reach me?</h4> 
 Email at <b>alizajuw@gmail.com</b>
 <br>
-
 Or
-
+<br>
 💬 DM at <b>https://www.linkedin.com/in/aliza-khalid/</b>
 
