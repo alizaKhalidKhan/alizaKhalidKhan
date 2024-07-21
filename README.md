@@ -6,7 +6,8 @@
 🎭 Portfolio Link : <b>https://artistichubs.wordpress.com/</b><br>
 
 <h4>💬 How to reach me?</h4> 
-Email at <b>alizajuw@gmail.com</b><br>
+Email at <b>alizajuw@gmail.com</b>
+<br>
 
 Or
 
