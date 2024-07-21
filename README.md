@@ -5,8 +5,8 @@
 <h3>You can Check my Portfolio : </h3>
 🎭 Portfolio Link : <b>https://artistichubs.wordpress.com/</b><br><br>
 
-<h3>💬 How to reach me?</h3> 
-Email at <b>alizajuw@gmail.com</b>
+<h3>How to reach me?</h3> 
+💬 Email at <b>alizajuw@gmail.com</b>
 <br><br>
 Or
 <br><br>
