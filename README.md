@@ -1,7 +1,7 @@
 <h1 align="center" >Hey!  👋 I am <b>Aliza Khalid</b></h1>
 <h3 align="center">👩🏼‍💻 A Passionate front-end developer</h3><br>
 <h3>Here is some basic info about me : </h3>
-👩🏻‍🎓 I am a BS-CS student at Jinnah University for Women <br><br>
+👩🏻‍🎓 I was a BS-CS student at Jinnah University for Women <br><br>
 <h3>You can Check my Portfolio : </h3>
 🎭 Portfolio Link : <b>https://artistichubs.wordpress.com/</b><br><br>
 
